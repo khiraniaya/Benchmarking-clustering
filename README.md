@@ -11,3 +11,9 @@ Expliquer et justifier les résultats obtenus en se basant sur vos apprentissage
 
 **Niveau 3:**
 Proposer des améliorations des résultats obtenus, par exemple: optimisation de paramètres, sélection de caractéristiques , ....
+
+
+## **Notebooks**
+1.   [dataInternet_0](https://colab.research.google.com/drive/1JzcbW62tecDRGjn1LVd6i8-d8pO7bp8-?usp=sharing)
+2.   
+
