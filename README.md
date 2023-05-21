@@ -13,4 +13,4 @@ Proposer des améliorations des résultats obtenus, par exemple: optimisation de
 
 
 ## **Notebook**
-1.   [Benchmarking - Clustering]([](https://colab.research.google.com/drive/1r6YDVAdsasNce5Ve_vbUP56DHwvkmwPd?usp=sharing))
+1.   [Benchmarking - Clustering]([Benchmarking - Clustering](https://colab.research.google.com/drive/1r6YDVAdsasNce5Ve_vbUP56DHwvkmwPd?usp=sharing))
